@@ -1,7 +1,10 @@
-# Shaft-Encoder
+## Shaft-Encoder
 
 A Shaft Encoder is an electromechanical device that converts the angular position or motion of a rotating shaft into a digital signal. It is widely used in automation systems, robotics, industrial machinery, and control applications to detect position, direction, and speed.
+
 ---
+
+
 ## Hardware Requirements
 - Arduino board (Uno, Mega, Nano, etc.)
 - 4-bit Gray code rotary or linear encoder
