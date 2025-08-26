@@ -35,6 +35,7 @@ A Shaft Encoder is an electromechanical device that converts the angular positio
 
 ## Code Snippet
 
+``cpp
 const int grayPins[4] = {6, 7, 8, 9};  // Encoder output pins
 
 void setup() {
