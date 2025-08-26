@@ -81,10 +81,11 @@ Gray Code: 1101 -> Position: 5
 
 ## Applications
 
--Reading position from rotary encoders
--Motion tracking in robotics
--Building digital dial controls
--Learning about Gray code and binary systems
+- Reading position from rotary encoders
+- Motion tracking in robotics
+- Building digital dial controls
+- Learning about Gray code and binary systems
+
 
 <div align="right">
 <a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
