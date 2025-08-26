@@ -6,7 +6,7 @@ A Shaft Encoder is an electromechanical device that converts the angular positio
 
 
 ## Hardware Requirements
-- Arduino board (Uno, Mega, Nano, etc.)
+- Arduino board (Uno, Mega, Nano,)
 - 4-bit Gray code rotary or linear encoder
 - 4 digital input pins (pins 6 to 9 by default)
 - Jumper wires
