@@ -1,5 +1,6 @@
 # Shaft-Encoder
 ---
+A Shaft Encoder is an electromechanical device that converts the angular position or motion of a rotating shaft into a digital signal. It is widely used in automation systems, robotics, industrial machinery, and control applications to detect position, direction, and speed.
 
 ## Hardware Requirements
 - Arduino board (Uno, Mega, Nano, etc.)
@@ -34,7 +35,7 @@
 
 ## Code Snippet
 
-```cpp
+``cpp
 const int grayPins[4] = {6, 7, 8, 9};  // Encoder output pins
 
 void setup() {
@@ -75,13 +76,10 @@ Gray Code: 1000 -> Position: 7
 Gray Code: 1001 -> Position: 6
 Gray Code: 1101 -> Position: 5
 Applications
-Reading position from rotary encoders
-
-Motion tracking in robotics
-
-Building digital dial controls
-
-Learning about Gray code and binary systems
+-Reading position from rotary encoders
+-Motion tracking in robotics
+-Building digital dial controls
+-Learning about Gray code and binary systems
 
 <div align="right">
 <a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
