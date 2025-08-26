@@ -81,8 +81,14 @@ Serial Output Example:
 ---
 
 ## 📷Project Setup
-<img src="https://i.postimg.cc/PxBQTvRR/Whats-App-Image-2025-08-26-at-15-47-23-21d3a427.jpg" width="105" />   <img src="https://i.postimg.cc/T1MgZMy8/Whats-App-Image-2025-08-26-at-15-47-23-5fd57261.jpg" width="105" />   <img src="https://i.postimg.cc/L8CfmZq3/Whats-App-Image-2025-08-26-at-15-47-24-95d0296a.jpg" width="95" />   <img src="https://i.postimg.cc/FzVd8f5c/Whats-App-Image-2025-08-26-at-15-47-25-e55fa354.jpg" width="105" />   <img src="https://i.postimg.cc/0jPrY8MN/Whats-App-Image-2025-08-26-at-15-47-26-d4e3bb6b.jpg" width="105" />   <img src="https://i.postimg.cc/NGkKgrS2/Whats-App-Image-2025-08-26-at-15-47-26-2e0dd0f1.jpg" width="105" />   <img src="https://i.postimg.cc/nLmLNsqz/Whats-App-Image-2025-08-26-at-15-47-27-f623fe53.jpg" width="105" />   
-
+<img src="https://i.postimg.cc/PxBQTvRR/Whats-App-Image-2025-08-26-at-15-47-23-21d3a427.jpg" width="150" />  
+<img src="https://i.postimg.cc/T1MgZMy8/Whats-App-Image-2025-08-26-at-15-47-23-5fd57261.jpg" width="150" />  
+<img src="https://i.postimg.cc/L8CfmZq3/Whats-App-Image-2025-08-26-at-15-47-24-95d0296a.jpg" width="150" />  
+<img src="https://i.postimg.cc/FzVd8f5c/Whats-App-Image-2025-08-26-at-15-47-25-e55fa354.jpg" width="150" />  
+<img src="https://i.postimg.cc/0jPrY8MN/Whats-App-Image-2025-08-26-at-15-47-26-d4e3bb6b.jpg" width="150" />  
+<img src="https://i.postimg.cc/NGkKgrS2/Whats-App-Image-2025-08-26-at-15-47-26-2e0dd0f1.jpg" width="150" />  
+<img src="https://i.postimg.cc/nLmLNsqz/Whats-App-Image-2025-08-26-at-15-47-27-f623fe53.jpg" width="150" />
+   
 
 ---
 
