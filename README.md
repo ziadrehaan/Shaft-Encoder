@@ -70,12 +70,10 @@ void loop() {
   delay(500);
 }
 ```
-Serial Output Example
-yaml
-Copy code
-Gray Code: 1000 -> Position: 7
-Gray Code: 1001 -> Position: 6
-Gray Code: 1101 -> Position: 5
+Serial Output Example:
+- Gray Code: 1000 -> Position: 7
+- Gray Code: 1001 -> Position: 6
+- Gray Code: 1101 -> Position: 5
 
 ---
 
