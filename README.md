@@ -20,7 +20,7 @@ A Shaft Encoder is an electromechanical device that converts the angular positio
 | D2             | 8           |
 | D3 (LSB)       | 9           |
 
-> Note: You can change the pins by modifying the `grayPins[]` array in the code.
+> Note: You can change the pins as you want by modifying the `grayPins[]` array in the code.
 
 ---
 
@@ -78,6 +78,7 @@ Gray Code: 1101 -> Position: 5
 ---
 
 ## Applications
+
 -Reading position from rotary encoders
 -Motion tracking in robotics
 -Building digital dial controls
